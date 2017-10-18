@@ -1,0 +1,26 @@
+{
+    "state": 0,
+    "listItems": [
+        {
+            "type": 0, "src": "http://img.1yyg.net/Poster/20170518163741543.jpg",
+            "url": "http://weixin.1yyg.com/v40/GoodsSearch.do?q=%E6%96%B0%E9%B2%9C%E6%B0%B4%E6%9E%9C", "alt": "", 
+            "width": 640, 
+            "height": 110, 
+            "startTime": "2017-05-18 00:00:00", 
+            "endTime": "2017-08-18 00:00:00"
+        }, {
+            "type": 0, "src": "http://img.1yyg.net/Poster/20170511141249249.jpg",
+            "url": "http://weixin.1yyg.com/v39/GoodsSearch.do?q=P10", "alt": "",
+            "width": 640, "height": 110,
+            "startTime": "2017-05-11 00:00:00",
+             "endTime": "2017-08-11 00:00:00"
+        }, 
+        { "type": 0, "src": "http://img.1yyg.net/Poster/20170227170302909.png",
+         "url": "http://weixin.1yyg.com/v27/products/23559.do", 
+         "alt": "", 
+         "width": 640, 
+         "height": 110, 
+         "startTime": "2017-02-27 00:00:00",
+          "endTime": "2017-10-31 00:00:00" 
+        }]
+}
