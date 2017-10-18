@@ -1,7 +1,10 @@
-这是一个移动端云购商城的UI部分。
 
+## 运行
+
+    npm run install
+    npm run start
+    
 ## 内容
-
 - 云购主页
 - 最新揭晓
 - 嗮单
